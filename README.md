@@ -1,5 +1,5 @@
 # Introduction
-This code performs the calculations for the publication <b>Most Undirected Random Graphs are Amplifiers of Selection for Birth-death Dynamics, but Suppressors of Selection for death-Birth Dynamics</b> by <i>Laura Hindersin</i> and <i>Arne Traulsen</i> (Journal link coming soon).
+This code performs the calculations for the publication <b>Most Undirected Random Graphs are Amplifiers of Selection for Birth-death Dynamics, but Suppressors of Selection for death-Birth Dynamics</b> by <i>Laura Hindersin</i> and <i>Arne Traulsen</i> (Journal link: <a href=http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004437> here </a>).
 
 An IPython notebook is available <a href="http://nbviewer.ipython.org/github/hindersin/randomGraphs/blob/master/randomGraphs.ipynb">online here</a>
 
